@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\GitHub\Triangle\Triangle\bin\Debug\Triangle.exe.config
+C:\Users\Asus\Desktop\GitHub\Triangle\Triangle\bin\Debug\Triangle.exe
+C:\Users\Asus\Desktop\GitHub\Triangle\Triangle\bin\Debug\Triangle.pdb
+C:\Users\Asus\Desktop\GitHub\Triangle\Triangle\obj\Debug\Triangle.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\GitHub\Triangle\Triangle\obj\Debug\Triangle.Form1.resources
+C:\Users\Asus\Desktop\GitHub\Triangle\Triangle\obj\Debug\Triangle.Properties.Resources.resources
+C:\Users\Asus\Desktop\GitHub\Triangle\Triangle\obj\Debug\Triangle.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\GitHub\Triangle\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\GitHub\Triangle\Triangle\obj\Debug\Triangle.exe
+C:\Users\Asus\Desktop\GitHub\Triangle\Triangle\obj\Debug\Triangle.pdb
